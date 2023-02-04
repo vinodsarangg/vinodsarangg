@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/inodsarang2" target="blank"><img src="https://img.shields.io/twitter/follow/inodsarang2?logo=twitter&style=for-the-badge" alt="inodsarang2" /></a> </p>
 
-- 💬 Ask me about **HTML || C++XX || CSS**
+- 💬 Ask me about **HTML || C++ || CSS**
 
 - 📫 How to reach me **vinodsarangg@gmail.com**
 

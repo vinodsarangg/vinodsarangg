@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vinod Sarang</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodsarangg&label=Profile%20views&color=0e75b6&style=flat" alt="vinodsarangg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vinodsarang2" target="blank"><img src="https://img.shields.io/twitter/follow/inodsarang2?logo=twitter&style=for-the-badge" alt="inodsarang2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vinodsarang2" target="blank"><img src="https://img.shields.io/twitter/follow/vinodsarang2?logo=twitter&style=for-the-badge" alt="vinodsarang2" /></a> </p>
 
 - 💬 Ask me about **HTML || C++ || CSS**
 

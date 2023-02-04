@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vinod Sarang</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodsarangg&label=Profile%20views&color=0e75b6&style=flat" alt="vinodsarangg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/inodsarang2" target="blank"><img src="https://img.shields.io/twitter/follow/inodsarang2?logo=twitter&style=for-the-badge" alt="inodsarang2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vinodsarang2" target="blank"><img src="https://img.shields.io/twitter/follow/inodsarang2?logo=twitter&style=for-the-badge" alt="inodsarang2" /></a> </p>
 
 - 💬 Ask me about **HTML || C++ || CSS**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinodsarang2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inodsarang2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinod-sarang-b0675724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinod sarang-b0675724b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinod-sarang-b0675724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinod sarang" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/vinodkumar.meghwar.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/vinodkumar.meghwar.75" height="30" width="40" /></a>
 <a href="https://instagram.com/vinodsarang2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinodsarang2021" height="30" width="40" /></a>
 </p>
